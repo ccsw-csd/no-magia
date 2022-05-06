@@ -1,8 +1,8 @@
-package com.capgemini.app;
+package com.ccsw.app;
 
-import com.capgemini.app.service.HelloService;
-import com.capgemini.fwk.annotations.Autowired;
-import com.capgemini.fwk.core.FwkContext;
+import com.ccsw.app.service.HelloService;
+import com.ccsw.fwk.annotations.Autowired;
+import com.ccsw.fwk.core.FwkContext;
 
 /**
  * @author pajimene

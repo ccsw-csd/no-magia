@@ -1,4 +1,4 @@
-package com.capgemini.fwk.annotations;
+package com.ccsw.fwk.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

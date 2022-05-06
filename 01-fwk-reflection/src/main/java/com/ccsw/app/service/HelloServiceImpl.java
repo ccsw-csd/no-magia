@@ -1,7 +1,7 @@
 
-package com.capgemini.app.service;
+package com.ccsw.app.service;
 
-import com.capgemini.fwk.annotations.Component;
+import com.ccsw.fwk.annotations.Component;
 
 /**
  * @author coedevon

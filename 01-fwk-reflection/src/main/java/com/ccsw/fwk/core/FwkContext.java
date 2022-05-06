@@ -1,4 +1,4 @@
-package com.capgemini.fwk.core;
+package com.ccsw.fwk.core;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
@@ -9,8 +9,8 @@ import org.reflections.scanners.FieldAnnotationsScanner;
 import org.reflections.scanners.SubTypesScanner;
 import org.reflections.scanners.TypeAnnotationsScanner;
 
-import com.capgemini.fwk.annotations.Autowired;
-import com.capgemini.fwk.annotations.Component;
+import com.ccsw.fwk.annotations.Autowired;
+import com.ccsw.fwk.annotations.Component;
 
 /**
  * @author pajimene

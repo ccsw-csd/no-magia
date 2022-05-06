@@ -1,5 +1,5 @@
 
-package com.capgemini.fwk.core;
+package com.ccsw.fwk.core;
 
 import java.util.HashMap;
 
